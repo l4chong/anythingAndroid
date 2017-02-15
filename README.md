@@ -4,7 +4,8 @@ Pretty much anything about Android.
 ## Android
 1. Wasabeef's [List of Android UI/UX Libraries] (https://github.com/wasabeef/awesome-android-ui)
 2. CodePath [Android Guides] (https://github.com/codepath/android_guides)
-3. Google's [Android Architecture Blueprints] (https://github.com/googlesamples/android-architecture)
+3. [Android Arsenal]  (https://android-arsenal.com/)
+4. [Youtube Android Developer channel] (https://www.youtube.com/user/androiddevelopers)
 
 ## Animation 
 1. [Lottie] (https://github.com/airbnb/lottie-android)
@@ -74,6 +75,22 @@ Pretty much anything about Android.
 
 ## Misc
 1. [MaterialAbout]  (https://github.com/jrvansuita/MaterialAbout)
+
+## Debbuging / Developer tools / AndroidStudio Plugin
+1. [Library Method Count] (http://www.methodscount.com/)
+2. [Stetho]  (http://facebook.github.io/stetho/) 
+3. [LeekCanary]  (https://github.com/square/leakcanary)
+4. [Gradle Please] (http://gradleplease.appspot.com/)
+5. [androidtool-mac] (https://github.com/mortenjust/androidtool-mac)
+6. [android-auto-butterknife] (https://github.com/avast/android-butterknife-zelezny)
+7. [ADB idea] (https://github.com/pbreault/adb-idea) 
+8. 
+
+## Sample Apps
+1. [googleIO]  (https://github.com/google/iosched)
+2. Google's [Android Architecture Blueprints] (https://github.com/googlesamples/android-architecture)
+3. [Plaid] (https://github.com/nickbutcher/plaid)
+
 
 ## Interesting Articles
 
