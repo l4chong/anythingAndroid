@@ -99,4 +99,5 @@ Pretty much anything about Android.
 #### Dependency Injection
 1. [Intro to DI] (https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117#.uqh027pma)
 2. [Rx Java for the rest of us] (https://realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/)
+3. [Simple Dagger 2] (https://android.jlelse.eu/the-simplest-dagger2-dependency-injection-sample-80a0eb60e33b#.j2pr26uuf)
 
