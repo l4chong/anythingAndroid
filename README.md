@@ -21,7 +21,6 @@ Pretty much anything about Android.
 2. [Chuck] (https://github.com/jgilfelt/chuck)
 3. [Bridge] (https://github.com/afollestad/bridge)
 4. [ObjectBox] (https://github.com/greenrobot/ObjectBox)
-5. 
 
 ## Json Processing
 1. [ason] (https://github.com/afollestad/ason)
@@ -96,3 +95,5 @@ Pretty much anything about Android.
 
 #### Dependency Injection
 1. [Intro to DI] (https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117#.uqh027pma)
+2. [Rx Java for the rest of us] (https://realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/)
+
