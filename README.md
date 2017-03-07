@@ -10,7 +10,10 @@ Pretty much anything about Android.
 ## Animation 
 1. [Lottie] (https://github.com/airbnb/lottie-android)
 2. [Android-SwitchIcon] (https://github.com/zagum/Android-SwitchIcon)
-3. 
+
+## CustomView
+1. [ProtractorView] (https://github.com/GoodieBag/ProtractorView)
+2. [Pinview] (https://github.com/GoodieBag/Pinview)
 
 ## Toast
 1. [Toasty] (https://github.com/GrenderG/Toasty)
